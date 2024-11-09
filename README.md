@@ -2,7 +2,8 @@
 
 ## Overview
 
-The **Email Threat Analysis Tool** is a Python-based Colab notebook designed to analyze email headers, subjects, and content for potential security threats. This tool uses a large language model to assess the likelihood of phishing attempts and flags suspicious elements within emails. 
+The **Email Threat Analysis Tool** is a Python-based Colab notebook designed to analyze email headers, subjects, and content for potential security threats. This tool uses a large language model 
+from ollama to assess the likelihood of phishing attempts and flags suspicious elements within emails. 
 
 ## Features
 
